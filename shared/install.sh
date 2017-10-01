@@ -12,3 +12,5 @@ sudo apt-get install -y git
 
 sudo apt-get install -y curl openssh-server ca-certificates
 
+sudo apt-get install -y software-properties-common
+
